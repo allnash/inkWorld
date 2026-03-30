@@ -2,6 +2,8 @@
 
 A 3D room builder powered by AI and ink. Draw, describe, and compose 3D scenes from text prompts or hand-drawn sketches.
 
+![inkWorld](images/new.png)
+
 **Forked from [note-ai-inc/ink-ai-hack-playground](https://github.com/note-ai-inc/ink-ai-hack-playground)** — a React + TypeScript + Vite app for interactive ink-based elements with handwriting recognition.
 
 ## What We Built
